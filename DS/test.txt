@@ -1,0 +1,9 @@
+Student Data
+id nam marks
+1 "A" 34
+2 "B" 45
+3 "c" 78
+4 "D" 34
+
+
+	
